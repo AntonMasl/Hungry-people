@@ -19,7 +19,7 @@ body {
 
 .header {
   height: 100vh;
-  background: url("../images/background.png") center/cover no-repeat fixed;
+  background: url("../images/background.png") center/cover no-repeat;
 }
 
 .header__menu-list {
