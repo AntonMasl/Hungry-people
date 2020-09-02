@@ -476,10 +476,6 @@
   .header__content {
     margin-top: 150px;
   }
-  .menu-dropdown__link {
-    font-size: 30px;
-    line-height: 1;
-  }
 }
 
 @media (max-height: 640px) {
